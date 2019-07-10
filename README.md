@@ -5,7 +5,7 @@
 * 数据库：MySQL
 * 前端框架：Bootstrap
 * 项目管理：Maven
-* 开发工具：MyEclipse
+* 开发工具：Intellij IDEA
 * 开发环境：Windows
 
 ### 数据库表
